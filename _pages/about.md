@@ -7,6 +7,3 @@ redirect_from:
   - /about.html
 ---
 
-I am a sophomore postgraduate student from [School of Software](https://soft.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). My research interests include computer vision and natural language processing.
-
-My mentor is the Software Institute of [Nanchang University](https://soft.ncu.edu.cn/) professor [Rao Hong](https://teacher.ncu.edu.cn/publish/004401/lwcg/list.html).
