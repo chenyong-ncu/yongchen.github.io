@@ -9,4 +9,4 @@ redirect_from:
 
 I am a sophomore postgraduate student from [Nanchang University][School of Software](https://soft.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). My research interests include computer vision and natural language processing.
 
-My mentor is [] software institute of nanchang university (https://soft.ncu.edu.cn/) [professor RaoHong] (https://teacher.ncu.edu.cn/publish/004401/lwcg/list.html).
+My mentor is software institute of [nanchang university](https://soft.ncu.edu.cn/) [professor RaoHong](https://teacher.ncu.edu.cn/publish/004401/lwcg/list.html).
